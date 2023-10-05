@@ -4,6 +4,11 @@
 
 ![my first image](https://1.bp.blogspot.com/-CEadG89PuwA/WFN3pslQpHI/AAAAAAAACm4/uysJlYhknwQVP83FiXhsm2embvkvw0IbACLcB/s1600/escudo-de-river6.jpg)
 
-```
+``` javascript
 var greetings = "hello"
 ```
+
+- [x] Portafolio of projects
+- [x] Present to the world
+- [x] be nice  
+
